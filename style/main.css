@@ -2,7 +2,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
+  background: URL("https://i.kym-cdn.com/photos/images/original/001/081/743/9b2.png");
+  background-repeat:
+  background-repeat: no-repeat;
+  background-position: center;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
